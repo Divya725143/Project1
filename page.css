@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.cs1{
+    display: flex;
+    
+    background-color:purple;
+    font-size:20px;
+}
+.cs1 ul{
+    display: flex;
+}
+.cs1 ul li{
+    margin:0px;
+    margin-top:40px;
+}
+.cs1 ul li a{
+    color:orange;
+    font-weight: bold;
+    transition:1s all;
+    margin-left:200px;
+    margin-right:0px;
+
+}
+.cs1 ul li a:hover{
+    color: green;
+    cursor: pointer; 
+}
+body{
+   
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color:pink;
+    background-image:url("https://fitindia.gov.in/wp-content/uploads/2021/11/UlOJu3Zj9XL04ycEbXPR8STTiu1ov5Dvv7UGj9kS.jpg")
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color:yellow;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color:yellow;
+}
+.cs1 img{
+    margin-left:100px;
+}
